@@ -1,6 +1,6 @@
 {
-  "name": "my-custom-react-ts-tail-vite",
-  "version": "1.0.0",
+  "name": "my-react-ts-tail-vite",
+  "version": "1.1.4",
   "type": "module",
   "bin": "./bin/cli.js",
   "scripts": {

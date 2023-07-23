@@ -1,4 +1,4 @@
-#!https://github.com/Mstfucrr/react-ts-tail-vite.git
+#!/usr/bin/env node
 
 const { execSync } = require("child_process");
 
