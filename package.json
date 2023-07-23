@@ -1,8 +1,8 @@
 {
-  "name": "companies",
-  "private": true,
-  "version": "0.0.0",
+  "name": "my-custom-react-ts-tail-vite",
+  "version": "1.0.0",
   "type": "module",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
